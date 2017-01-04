@@ -23,3 +23,4 @@ README com meus descobrimentos sobre esse novo mundo de front
 * [OK] A partir do template webpack-simple, como fazer pra adicionar css nele: a) próprio?; b) Via um codebase sass de um projeto de 3o (tipo [bulma](http://bulma.io/) ou bootstrap)?
  * Do jeito que tah feito no [boravue/webpack-simple](https://github.com/tonylampada/boravue/tree/master/webpack-simple)
 * [PEND] Como fazer testes que injetam coisas?
+* [PEND] Qual diferença entre o `<style scoped>` e `<style module>` nos arquivos .vue?
