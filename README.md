@@ -14,7 +14,7 @@ README com meus descobrimentos sobre esse novo mundo de front
 
 # Vue
 
-* Como 
+* Como importar css ou sass de dentro dos arquivos .vue?
 
 * A partir do template webpack-simple, como fazer pra adicionar css nele: 
  * próprio?
