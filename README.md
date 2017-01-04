@@ -7,12 +7,16 @@ README com meus descobrimentos sobre esse novo mundo de front
 
 # Webpack
 
+* [Introdução ao Webpack](https://www.youtube.com/watch?v=WQue1AN93YU) Recomendo muito!
+
 * Como incluir assets?
 
 * Como fazer imports condicionais? (tipo, `if(__DEBUG__){import apimock} else {import api}`)
 
 
 # Vue
+
+* Documentaao do [vue-loader](http://vue-loader.vuejs.org/en/)
 
 * Como importar css ou sass de dentro dos arquivos .vue?
 
